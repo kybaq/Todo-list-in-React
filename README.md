@@ -10,7 +10,7 @@
 
 ## 컴포넌트 구조
 
-`App()` -> `ToDoList() -> `WorkList()`
+`App()` -> `ToDoList()` -> `WorkList()`
 
 `App()` 컴포넌트 내부에 `ToDoList()` 라는 자식 컴포넌트를 구성함.
 `ToDoList` 컴포넌트 내부는 페이지의 `<header>`, `<form>`, `<main>` 요소를 구성함.
