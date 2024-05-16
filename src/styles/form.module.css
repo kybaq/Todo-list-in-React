@@ -1,0 +1,21 @@
+.form {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0.9);
+    height: 70px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.input {
+    height: 39px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+
+.submit_btn {
+    margin-left: 660px;
+}
